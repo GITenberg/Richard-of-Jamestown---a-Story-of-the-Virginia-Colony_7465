@@ -1,0 +1,27 @@
+_repo: Richard-of-Jamestown---a-Story-of-the-Virginia-Colony_7465
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Otis, James
+    alias: Kaler, James Otis
+    birthdate: 1848
+    deathdate: 1912
+    gutenberg_agent_id: '1433'
+    url: http://www.gutenberg.org/2009/agents/1433
+description: The tale of ten-year-old Richard Mutton, who sailed with Captain John
+  Smith on the Susan B Constant to help found Jamestown Colony.
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7465'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'PS'
+- !lcsh 'Virginia -- History -- Colonial period, ca. 1600-1775 -- Juvenile fiction'
+- GITenberg
+title: 'Richard of Jamestown : a Story of the Virginia Colony'
+url: http://www.gutenberg.org/ebooks/7465
