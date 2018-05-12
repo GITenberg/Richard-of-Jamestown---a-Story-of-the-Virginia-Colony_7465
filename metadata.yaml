@@ -1,5 +1,8 @@
 _repo: Richard-of-Jamestown---a-Story-of-the-Virginia-Colony_7465
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Otis, James
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1433
 description: The tale of ten-year-old Richard Mutton, who sailed with Captain John
   Smith on the Susan B Constant to help found Jamestown Colony.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7465#Richard-of-Jamestown---a-Story-of-the-Virginia-Colony
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
 identifiers:
